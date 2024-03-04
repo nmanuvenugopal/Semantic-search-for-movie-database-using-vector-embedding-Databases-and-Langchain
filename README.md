@@ -1,4 +1,4 @@
-# AI-assistant-using-vector-embedding-Databases-and-Langchain
+# Vector Embedding
 
 Vector embedding is a technique used to convert data items—whether they are words, sentences, entire documents, or even images—into a vector of real numbers which represent the items in a continuous vector space. This process is foundational in machine learning, especially in natural language processing (NLP) and image recognition, because it enables algorithms to perform mathematical operations on complex data types. Here's a detailed breakdown of the concept:
 
@@ -25,4 +25,12 @@ Vector embedding is a technique used to convert data items—whether they are wo
 - **Transferability**: Embeddings learned from one task or dataset can often be transferred and used in other tasks or datasets, leveraging the generalizability of learned representations. This is a cornerstone of transfer learning.
 
 - **Dimensionality Reduction**: Besides capturing semantic or feature similarities, embeddings also serve as a form of dimensionality reduction, making it easier to process and analyze data.
+
+# Vector Search
+Vector search on the other hand is used to find and retrieve the informations that are most similar or relevant to the given query. Vector search will try to understand the meaning or context of the given query, for example, querying a "car" may retrive or return the information related to "driver", "tyre" or "hybrid".
+
+![image](https://github.com/nmanuvenugopal/AI-assistant-using-vector-embedding-Databases-and-Langchain/assets/99719105/2322aa06-34d1-4963-816f-76055886b2d3)
+
+
+
 

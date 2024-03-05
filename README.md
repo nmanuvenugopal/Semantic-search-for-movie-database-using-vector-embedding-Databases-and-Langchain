@@ -32,5 +32,10 @@ Vector search on the other hand is used to find and retrieve the informations th
 ![image](https://github.com/nmanuvenugopal/AI-assistant-using-vector-embedding-Databases-and-Langchain/assets/99719105/2322aa06-34d1-4963-816f-76055886b2d3)
 
 
+### Reference
+Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search by freeCodecamp youtube channel
+https://www.youtube.com/watch?v=JEBDfGqrAUA&t=2s
+
+
 
 
